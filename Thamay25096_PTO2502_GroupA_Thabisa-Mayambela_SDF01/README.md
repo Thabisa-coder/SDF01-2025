@@ -10,8 +10,9 @@
 
 - 💡 I'm currently learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
+- 🤖 New challenges excite me and I have a passion for problem solving.
 - 🔥 Looking forward to building my first real-world application.
+- 🧠 Learning coding has always been my dream, doing this course is a dream  come true!
 
 ---
 
@@ -35,7 +36,8 @@
 - 🤝 Teamwork & Collaboration
 - 📢 Communication Skills
 - 🎯 Problem-Solving
-- 🚀 Adaptability
+- 🚀 Adaptability & Flexibility
+- 👂 Active Listening
 
 ---
 
