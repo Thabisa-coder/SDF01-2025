@@ -1,6 +1,6 @@
-# [SDF01] Challenge: My First Repo 🚀
+# [SDF01] Challenge: My Coding Journey Begins 🚀 Here is my First Repo 💃
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Thabisa Mayambela]
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
