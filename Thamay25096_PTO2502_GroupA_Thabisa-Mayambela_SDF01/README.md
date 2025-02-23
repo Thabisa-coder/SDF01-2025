@@ -68,8 +68,9 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub] (https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Thabisa-coder)]
-[![LinkedIn] (www.linkedin.com/in/thabisa-mayambela-33687a16a) ]
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Thabisa-coder)
+
+[![LinkedIn]() (www.linkedin.com/in/thabisa-mayambela-33687a16a) ]
 📧 Email: [natashtmx@gmail.com]
 
 ---
@@ -82,4 +83,4 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)!(GitHubStatus.jpg)
