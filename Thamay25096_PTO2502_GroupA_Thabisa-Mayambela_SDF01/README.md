@@ -70,7 +70,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Thabisa-coder)  (https://github.com/Thabisa-coder)
 
-[![LinkedIn](https://www.bing.com/ck/a?!&&p=92a2b6a6d40cbcfa04e837b98a6c22552fccdc5be218e587e930b379e34a3952JmltdHM9MTc0MDI2ODgwMA&ptn=3&ver=2&hsh=4&fclid=35173efd-4bba-66e9-3915-2b694a436764&u=a1L2ltYWdlcy9zZWFyY2g_cT1saW5rZWRpbiUyMGxvZ28lMjBwbmcmRk9STT1JUUZSQkEmaWQ9RjU0M0M4QTBDRDUyMTA3RkM4NTJCRDAzOTQ3OTAzMzkwQTg3Q0YyMA&ntb=1)(www.linkedin.com/in/thabisa-mayambela-33687a16a) ]
+[![LinkedIn](https://linkedin.com/in/yourprofile)(www.linkedin.com/in/thabisa-mayambela-33687a16a) ]
 
 📧 Email: [natashtmx@gmail.com]
 
